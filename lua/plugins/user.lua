@@ -1,0 +1,9 @@
+---@type LazySpec
+return {
+  { "max397574/better-escape.nvim", enabled = false },
+  { "kevinhwang91/nvim-ufo", enabled = false },
+  { "jay-babu/mason-null-ls.nvim", enabled = false },
+  { "nvimtools/none-ls.nvim", enabled = false },
+  { "buf-language-server", enabled = false },
+  { "resession.nvim", enabled = false },
+}
